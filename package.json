@@ -39,12 +39,12 @@
       {
         "label": "ALX-Full_Dark",
         "uiTheme": "vs-dark",
-        "path": "./themes/alx-theme-color-theme.json"
+        "path": "./themes/ALX-Full_Dark.json"
       },
       {
         "label": "ALX-Full_Dark(no-border)",
         "uiTheme": "vs-dark",
-        "path": "./themes/alx-theme-color-theme.json"
+        "path": "./themes/ALX-Full_Dark(no-border).json"
       }
     ]
   }
