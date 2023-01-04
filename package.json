@@ -1,15 +1,16 @@
 {
-  "name": "alx-theme",
+  "name": "ALX_THEME",
   "displayName": "ALX_THEME",
   "description": "Full Black theme",
   "version": "1.0.0",
   "publisher": "ALX-ZMN",
+  "icon": "img/logo.png",
   "repository": "git@github.com:revivalver/VScodeTHEME.git",
   "engines": {
     "vscode": "^1.71.2"
   },
   "author": {
-    "name": "ALEX"
+    "name": "ALEX-ZMN"
   },
   "categories": [
     "Themes"
@@ -17,12 +18,31 @@
   "keywords": [
     "black",
     "theme",
-    "full black"
+    "full black",
+    "color",
+    "visual",
+    "full black theme",
+    "rainbow",
+    "react",
+    "white",
+    "realize",
+    "publish",
+    "vscode",
+    "dark",
+    "full dark",
+    "full",
+    "no border",
+    "border"
   ],
   "contributes": {
     "themes": [
       {
-        "label": "alx-theme",
+        "label": "ALX-Full_Dark",
+        "uiTheme": "vs-dark",
+        "path": "./themes/alx-theme-color-theme.json"
+      },
+      {
+        "label": "ALX-Full_Dark(no-border)",
         "uiTheme": "vs-dark",
         "path": "./themes/alx-theme-color-theme.json"
       }

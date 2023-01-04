@@ -1,16 +1,13 @@
-# alx-theme-color-theme README
+# Alx-theme
 
-## Working with Markdown
+#### Thank you for being here! Take a look on this full black theme.
 
-You can author your README using Visual Studio Code. Here are some useful editor keyboard shortcuts:
+### There are 2 options to choose from:
 
-* Split the editor (`Cmd+\` on macOS or `Ctrl+\` on Windows and Linux).
-* Toggle preview (`Shift+Cmd+V` on macOS or `Shift+Ctrl+V` on Windows and Linux).
-* Press `Ctrl+Space` (Windows, Linux, macOS) to see a list of Markdown snippets.
+## full dark
 
-## For more information
+## full dark (no border)
 
-* [Visual Studio Code's Markdown Support](http://code.visualstudio.com/docs/languages/markdown)
-* [Markdown Syntax Reference](https://help.github.com/articles/markdown-basics/)
+**A dark theme with a black background.**
 
 **Enjoy!**

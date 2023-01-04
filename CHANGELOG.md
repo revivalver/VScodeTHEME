@@ -1,9 +1,5 @@
 # Change Log
 
-All notable changes to the "alx-theme-color-theme" extension will be documented in this file.
+## Add no border version theme,
 
-Check [Keep a Changelog](http://keepachangelog.com/) for recommendations on how to structure this file.
-
-## [Unreleased]
-
-- Initial release
+## Bag fix.
