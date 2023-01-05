@@ -1,13 +1,15 @@
-# Alx-theme
+# Full Dark Theme
 
-#### Thank you for being here! Take a look on this full black theme.
+_Thank you for being here! Take a look on this full black theme._
 
-### There are 2 options to choose from:
+## _There are 3 options to choose from:_
 
-## full dark
-
-## full dark (no border)
+1. Full dark (border+) with color syntax, many border =)
+2. Full dark (no border) no border, no color syntax
+3. Full dark (color syntax) easy border, easy syntax
 
 **A dark theme with a black background.**
+
+##### Made By Revival
 
 **Enjoy!**

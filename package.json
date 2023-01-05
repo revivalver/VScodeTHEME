@@ -37,14 +37,19 @@
   "contributes": {
     "themes": [
       {
-        "label": "ALX-Full_Dark",
+        "label": "ALX-Full_Dark(border+)",
         "uiTheme": "vs-dark",
-        "path": "./themes/ALX-Full_Dark.json"
+        "path": "./themes/ALX-Full_Dark(border+).json"
       },
       {
-        "label": "ALX-Full_Dark(no-border)",
+        "label": "ALX-Full_Dark(classic)",
         "uiTheme": "vs-dark",
-        "path": "./themes/ALX-Full_Dark(no-border).json"
+        "path": "./themes/ALX-Full_Dark(classic).json"
+      },
+      {
+        "label": "ALX-Full_Dark(color syntax)",
+        "uiTheme": "vs-dark",
+        "path": "./themes/ALX-Full_Dark(color_syntax).json"
       }
     ]
   }
