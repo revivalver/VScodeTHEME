@@ -1,7 +1,7 @@
 {
   "name": "alx-theme-color-theme",
   "displayName": "ALX_THEME",
-  "description": "Full Black theme",
+  "description": "Full Dark theme",
   "version": "3.0.0",
   "publisher": "ALX-ZMN",
   "icon": "img/logo.png",
@@ -32,7 +32,11 @@
     "full dark",
     "full",
     "no border",
-    "border"
+    "border",
+    "toxic",
+    "grey",
+    "green",
+    "colorize"
   ],
   "contributes": {
     "themes": [
@@ -50,6 +54,11 @@
         "label": "ALX-Full_Dark(color syntax)",
         "uiTheme": "vs-dark",
         "path": "./themes/ALX-Full_Dark(color_syntax).json"
+      },
+      {
+        "label": "ALX-Full_Dark(toxic)",
+        "uiTheme": "vs-dark",
+        "path": "./themes/ALX-Full_Dark(toxic).json"
       }
     ]
   }

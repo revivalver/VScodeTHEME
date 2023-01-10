@@ -1,6 +1,6 @@
 # Change Log
 
-## Add no border version theme,
+## Add another version theme,
 
 1. bag fix
 2. add color syntax
