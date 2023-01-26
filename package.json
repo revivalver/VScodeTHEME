@@ -41,11 +41,6 @@
   "contributes": {
     "themes": [
       {
-        "label": "ALX-Full_Dark(border+)",
-        "uiTheme": "vs-dark",
-        "path": "./themes/ALX-Full_Dark(border+).json"
-      },
-      {
         "label": "ALX-Full_Dark(classic)",
         "uiTheme": "vs-dark",
         "path": "./themes/ALX-Full_Dark(classic).json"
