@@ -2,7 +2,7 @@
   "name": "alx-theme-color-theme",
   "displayName": "ALX_THEME",
   "description": "Full Dark theme",
-  "version": "4.2.0",
+  "version": "4.0.0",
   "publisher": "ALX-ZMN",
   "icon": "img/logo.png",
   "repository": "git@github.com:revivalver/VScodeTHEME.git",
@@ -16,16 +16,27 @@
     "Themes"
   ],
   "keywords": [
+    "black",
     "theme",
+    "full black",
     "color",
+    "visual",
     "full black theme",
     "rainbow",
     "react",
+    "white",
+    "realize",
+    "publish",
+    "vscode",
+    "dark",
     "full dark",
     "full",
     "no border",
     "border",
-    "toxic"
+    "toxic",
+    "grey",
+    "green",
+    "colorize"
   ],
   "contributes": {
     "themes": [
