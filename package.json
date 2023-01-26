@@ -20,23 +20,7 @@
     "theme",
     "full black",
     "color",
-    "visual",
-    "full black theme",
-    "rainbow",
-    "react",
-    "white",
-    "realize",
-    "publish",
-    "vscode",
-    "dark",
-    "full dark",
-    "full",
-    "no border",
-    "border",
-    "toxic",
-    "grey",
-    "green",
-    "colorize"
+    "visual"
   ],
   "contributes": {
     "themes": [
