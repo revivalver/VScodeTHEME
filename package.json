@@ -59,6 +59,11 @@
         "label": "ALX-Full_Dark(toxic)",
         "uiTheme": "vs-dark",
         "path": "./themes/ALX-Full_Dark(toxic).json"
+      },
+      {
+        "label": "ALX-Full_Dark(NORMAL)",
+        "uiTheme": "vs-dark",
+        "path": "./themes/ALX-Full_Dark(normal).json"
       }
     ]
   }
