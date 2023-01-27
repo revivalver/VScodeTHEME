@@ -1874,7 +1874,7 @@
     "diffEditor.removedTextBackground": "#ff000033",
     "diffEditor.removedTextBorder": "#ff0000",
     "diffEditor.border": "#4f4f4f",
-    "panel.background": "#00000099",
+    "panel.background": "#000000",
     "panel.border": "#2626262a",
     "panelTitle.activeBorder": "#ffffff89",
     "panelTitle.activeForeground": "#ffffff",

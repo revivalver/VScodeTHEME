@@ -1877,7 +1877,7 @@
     "diffEditor.removedTextBackground": "#ff000033",
     "diffEditor.removedTextBorder": "#ff0000",
     "diffEditor.border": "#4f4f4f",
-    "panel.background": "#00000099",
+    "panel.background": "#000",
     "terminal.ansiBlack": "#686868",
     "terminal.ansiBlue": "#2472c8",
     "terminal.ansiBrightBlack": "#a5a5a5",
