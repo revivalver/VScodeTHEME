@@ -1,8 +1,8 @@
 {
   "name": "alx-theme-color-theme",
-  "displayName": "ALX_THEME",
-  "description": "Full Dark theme",
-  "version": "4.5.0",
+  "displayName": "Darkness_code",
+  "description": "Full Dark Theme",
+  "version": "1.0.0",
   "publisher": "ALX-ZMN",
   "icon": "img/logo.png",
   "repository": "git@github.com:revivalver/VScodeTHEME.git",
@@ -10,39 +10,38 @@
     "vscode": "^1.71.2"
   },
   "author": {
-    "name": "ALEX-ZMN"
+    "name": "ALX-ZMN"
   },
   "categories": [
     "Themes"
   ],
   "keywords": [
+    "dark",
     "black",
     "theme",
-    "full black",
-    "color",
-    "visual"
+    "code",
+    "visual",
+    "html",
+    "fractal",
+    "toxic",
+    "react"
   ],
   "contributes": {
     "themes": [
       {
-        "label": "ALX-Full_Dark(classic)",
+        "label": "Darkness_IS_CLASSIC",
         "uiTheme": "vs-dark",
-        "path": "./themes/ALX-Full_Dark(classic).json"
+        "path": "./themes/ALX_THEME_CLASSIC.json"
       },
       {
-        "label": "ALX-Full_Dark(color syntax)",
+        "label": "Darkness_IS_NORMAL",
         "uiTheme": "vs-dark",
-        "path": "./themes/ALX-Full_Dark(color_syntax).json"
+        "path": "./themes/ALX_THEME_NORMAL.json"
       },
       {
-        "label": "ALX-Full_Dark(toxic)",
+        "label": "Darkness_IS_TOXIC",
         "uiTheme": "vs-dark",
-        "path": "./themes/ALX-Full_Dark(toxic).json"
-      },
-      {
-        "label": "ALX-Full_Dark(NORMAL)",
-        "uiTheme": "vs-dark",
-        "path": "./themes/ALX-Full_Dark(normal).json"
+        "path": "./themes/ALX_THEME_TOXIC.json"
       }
     ]
   }
