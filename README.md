@@ -1,8 +1,8 @@
-# Full Dark Theme
+# DARKNESS IS
 
-_Thank you for being here! Take a look on this full dark theme._
+_Thank you for being here! Take a look on this theme: DARKNESS IS._
 
-## _There are 4 options to choose from:_
+## _There are 3 options to choose from:_
 
 1. Darkness IS(CLASSIC) easy border, easy color syntax
 2. Darkness IS(NORMAL) normal syntax no pressure on eyes
