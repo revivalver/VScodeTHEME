@@ -7,7 +7,7 @@
   "icon": "img/logo.png",
   "repository": "git@github.com:revivalver/VScodeTHEME.git",
   "engines": {
-    "vscode": "^1.74.3"
+    "vscode": "^1.70.3"
   },
   "author": {
     "name": "ALX-ZMN"
