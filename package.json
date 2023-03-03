@@ -24,7 +24,10 @@
     "html",
     "fractal",
     "toxic",
-    "react"
+    "react",
+    "darkness",
+    "black",
+    "silver"
   ],
   "contributes": {
     "themes": [
