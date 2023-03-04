@@ -1,13 +1,13 @@
 {
   "name": "alx-theme-color-theme",
-  "displayName": "Darkness",
+  "displayName": "Darkness_Theme",
   "description": "Darkness_IS?",
   "version": "8.2.0",
   "publisher": "ALX-ZMN",
   "icon": "img/logo.png",
   "repository": "git@github.com:revivalver/VScodeTHEME.git",
   "engines": {
-    "vscode": "^1.70.3"
+    "vscode": "^1.65.0"
   },
   "author": {
     "name": "ALX-ZMN"
