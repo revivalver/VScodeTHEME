@@ -17,32 +17,35 @@
   ],
   "keywords": [
     "dark",
-    "black",
+    "html",
     "theme",
     "code",
     "visual",
-    "html",
+    "npm",
     "fractal",
     "toxic",
     "react",
-    "darkness",
+    "dark theme",
     "black",
-    "silver"
+    "silver",
+    "css",
+    "create",
+    "app"
   ],
   "contributes": {
     "themes": [
       {
-        "label": "Darkness_IS_CLASSIC",
+        "label": "Darkness Classic",
         "uiTheme": "vs-dark",
         "path": "./themes/ALX_THEME_CLASSIC.json"
       },
       {
-        "label": "Darkness_IS_NORMAL",
+        "label": "Darkness Normal",
         "uiTheme": "vs-dark",
         "path": "./themes/ALX_THEME_NORMAL.json"
       },
       {
-        "label": "Darkness_IS_TOXIC",
+        "label": "Darkness Toxic",
         "uiTheme": "vs-dark",
         "path": "./themes/ALX_THEME_TOXIC.json"
       }

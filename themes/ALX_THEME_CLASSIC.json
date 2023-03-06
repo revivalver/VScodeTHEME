@@ -123,7 +123,7 @@
       "name": "Comment Markup Link",
       "scope": "comment markup.link",
       "settings": {
-        "foreground": "#7f848e"
+        "foreground": "#888e9b49"
       }
     },
     {
@@ -1623,7 +1623,7 @@
       "name": "comments",
       "scope": ["beginning.punctuation.definition.list.markdown.xi"],
       "settings": {
-        "foreground": "#7f848e"
+        "foreground": "#888e9b49"
       }
     },
     {
@@ -1695,7 +1695,7 @@
       "scope": "comment, punctuation.definition.comment",
       "settings": {
         "fontStyle": "italic",
-        "foreground": "#7f848e"
+        "foreground": "#888e9b49"
       }
     },
     {
@@ -1820,12 +1820,12 @@
     "textLink.foreground": "#1c85ff",
     "editor.background": "#000000",
     "editor.foreground": "#d4d4d4",
-    "editorLineNumber.foreground": "#ffffff89",
+    "editorLineNumber.foreground": "#ffffff",
     "editorCursor.foreground": "#ffffff",
     "editorCursor.background": "#000000",
     "editor.selectionBackground": "#001173b3",
     "editor.inactiveSelectionBackground": "#26292c",
-    "editorWhitespace.foreground": "#ffffff93",
+    "editorWhitespace.foreground": "#ffffff18",
     "editor.selectionHighlightBackground": "#6dc1ff3a",
     "editor.selectionHighlightBorder": "#d1d7de80",
     "editor.findMatchBackground": "#515c6a",
@@ -1843,16 +1843,16 @@
     "editor.wordHighlightBorder": "#ff000010",
     "editor.lineHighlightBackground": "#e4e1ff00",
     "editor.lineHighlightBorder": "#73737300",
-    "editorLineNumber.activeForeground": "#06ff16",
+    "editorLineNumber.activeForeground": "#66666666",
     "editorLink.activeForeground": "#20abff",
     "editorIndentGuide.background": "#ffffff17",
-    "editorIndentGuide.activeBackground": "#ffffff89",
-    "editorRuler.foreground": "#ffffff89",
+    "editorIndentGuide.activeBackground": "#ffffff59",
+    "editorRuler.foreground": "#ffffff69",
     "editorBracketMatch.background": "#0800ff00",
-    "editorBracketMatch.border": "#ffffff44",
+    "editorBracketMatch.border": "#ffffff34",
     "editor.foldBackground": "#a5cff942",
-    "editorOverviewRuler.background": "#000000",
-    "editorOverviewRuler.border": "#ffffff89",
+    "editorOverviewRuler.background": "#0000",
+    "editorOverviewRuler.border": "#0000",
     "editorError.foreground": "#ff000080",
     "editorError.background": "#ff0c0012",
     "editorError.border": "#ffffff00",
@@ -1867,7 +1867,7 @@
     "editorGutter.addedBackground": "#587c0c",
     "editorGutter.deletedBackground": "#94151b",
     "editorGutter.foldingControlForeground": "#ffffff",
-    "editorCodeLens.foreground": "#d1d1d1",
+    "editorCodeLens.foreground": "#d1d1d122",
     "editorGroup.border": "#ffffff28",
     "diffEditor.insertedTextBackground": "#9bb95538",
     "diffEditor.insertedTextBorder": "#ff0000",
@@ -1908,15 +1908,15 @@
     "editorGroupHeader.tabsBackground": "#00000000",
     "editorGroupHeader.tabsBorder": "#ffffff00",
     "tab.activeForeground": "#fff7bf",
-    "tab.border": "#03322155",
-    "tab.activeBackground": "#06625377",
-    "tab.activeBorder": "#06625355",
-    "tab.activeBorderTop": "#06625355",
+    "tab.border": "#64646425",
+    "tab.activeBackground": "#65646455",
+    "tab.activeBorder": "#64646455",
+    "tab.activeBorderTop": "#64646455",
     "tab.inactiveBackground": "#000",
     "tab.inactiveForeground": "#fff",
-    "tab.hoverBackground": "#06625399",
+    "tab.hoverBackground": "#64646455",
     "tab.hoverForeground": "#ffffff",
-    "tab.hoverBorder": "#03322155",
+    "tab.hoverBorder": "#64646455",
     "scrollbarSlider.background": "#64646455",
     "scrollbarSlider.hoverBackground": "#7d7d7d44",
     "scrollbarSlider.activeBackground": "#686868",
@@ -2003,7 +2003,7 @@
     "settings.focusedRowBackground": "#ffffff07",
     "walkThrough.embeddedEditorBackground": "#00000050",
     "breadcrumb.activeSelectionForeground": "#5f71ff",
-    "editorGutter.commentRangeForeground": "#ffffff",
+    "editorGutter.commentRangeForeground": "#888e9b49",
     "debugExceptionWidget.background": "#000000",
     "debugExceptionWidget.border": "#a7a7a789"
   }
