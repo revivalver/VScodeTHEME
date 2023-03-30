@@ -1623,7 +1623,7 @@
       "name": "comments",
       "scope": ["beginning.punctuation.definition.list.markdown.xi"],
       "settings": {
-        "foreground": "#888e9b"
+        "foreground": "#888e9b99"
       }
     },
     {
@@ -1695,7 +1695,7 @@
       "scope": "comment, punctuation.definition.comment",
       "settings": {
         "fontStyle": "normal",
-        "foreground": "#888e9b49"
+        "foreground": "#888e9b99"
       }
     },
     {
@@ -1870,7 +1870,7 @@
     "editorGutter.addedBackground": "#587c0c",
     "editorGutter.deletedBackground": "#94151b",
     "editorGutter.foldingControlForeground": "#ffffff",
-    "editorCodeLens.foreground": "#d1d1d122",
+    "editorCodeLens.foreground": "#d1d1d142",
     "editorGroup.border": "#ffffff28",
     "diffEditor.insertedTextBackground": "#9bb95538",
     "diffEditor.insertedTextBorder": "#ff0000",

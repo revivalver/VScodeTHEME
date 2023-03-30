@@ -1623,7 +1623,7 @@
       "name": "comments",
       "scope": ["beginning.punctuation.definition.list.markdown.xi"],
       "settings": {
-        "foreground": "#888e9b49"
+        "foreground": "#888e9b99"
       }
     },
     {
@@ -1695,7 +1695,7 @@
       "scope": "comment, punctuation.definition.comment",
       "settings": {
         "fontStyle": "normal",
-        "foreground": "#888e9b49"
+        "foreground": "#888e9b99"
       }
     },
     {
@@ -1799,7 +1799,7 @@
     "titleBar.border": "#ffffff10",
     "menubar.selectionForeground": "#fff",
     "menu.foreground": "#ffffff",
-    "menu.background": "#000000ee",
+    "menu.background": "#000000dd",
     "menu.selectionForeground": "#ffffff",
     "menu.selectionBackground": "#ffffff1c",
     "menu.separatorBackground": "#ffffff30",
@@ -1867,7 +1867,7 @@
     "editorGutter.addedBackground": "#587c0c",
     "editorGutter.deletedBackground": "#94151b",
     "editorGutter.foldingControlForeground": "#ffffff",
-    "editorCodeLens.foreground": "#d1d1d122",
+    "editorCodeLens.foreground": "#d1d1d142",
     "editorGroup.border": "#ffffff28",
     "diffEditor.insertedTextBackground": "#9bb95538",
     "diffEditor.insertedTextBorder": "#ff0000",
@@ -1903,7 +1903,7 @@
     "terminal.ansiYellow": "#e5e510",
     "breadcrumb.background": "#000",
     "breadcrumb.foreground": "#ffffff97",
-    "breadcrumb.focusForeground": "#5f71ff",
+    "breadcrumb.focusForeground": "#ffffff",
     "editorGroupHeader.border": "#00000089",
     "editorGroupHeader.tabsBackground": "#00000000",
     "editorGroupHeader.tabsBorder": "#ffffff00",
